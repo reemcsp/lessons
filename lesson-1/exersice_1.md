@@ -4,7 +4,7 @@
 * in `1`, create a file called `hello.txt`
 * move `hello.txt` to `2` using **only one command** and write it solution here:
 ```bash
-
+mv hello.txt ../2
 ```
 
 Good luck!
